@@ -1,0 +1,2 @@
+# EDA	
+El dataset seleccionado consta de datos de estudiantes, se encuentra en la carpeta 01_raw dentro de la carpeta data. Contiene los datos en formato csv de distintas variables correspondientes a estudiantes. La carpeta notebooks contiene el notebook de la práctica sobre análisis exploratorio, y la carpeta html, el mismo notebook, en versión html
